@@ -2,7 +2,7 @@
 
 We are building a listing rentals management company; let’s call it HostnDrive ;)
 
-Create a new rails app. 
+Create a new rails app. test
 
 
 4 main objects populate our app:
